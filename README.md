@@ -12,4 +12,5 @@ Short story:
 - "Hello world"-style design
 
 Read more here: https://t.me/itsorm/1576
+
 Original app in PM: https://play.google.com/store/apps/details?id=com.askgps.personaltrackerround
